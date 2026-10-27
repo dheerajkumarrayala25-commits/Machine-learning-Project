@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 The objective of this machine learning project is to build a predictive model that estimates the number of days required for a learner to complete a SkillBridge course. By analyzing learner characteristics, study habits, previous performance indicators, and engagement metrics, the model helps educational platforms optimize course pacing and provide personalized support systems for student success.
 
-* **Developed by:** R. Dheeraj kumar
+* **Developed by:** Rayala Dheeraj kumar
 * **Organization:** YBI Foundation Project Platform
 * **Core Task:** Regression (Predicting a continuous numerical value representing days)
 
