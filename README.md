@@ -42,4 +42,4 @@ Performed standard data validation checks to review data structure shapes, inves
 Isolated the continuous target metric (`Estimated Days to Complete`) from independent learner features. The dataset was split systematically into training and testing components using `train_test_split` to prevent overfitting.
 
 ### 4. Model Training & Evaluation
-Initialized and fitted the `LinearRegression` algorithm on the behavioral training data subset. Evaluated the final predictions against actual test labels using standard error metrics (MAE, RMSE, and $R^2$) to verify performance reliability.
+Initialized and fitted the `LinearRegression` algorithm on the behavioral training data subset. Evaluated the final predictions against actual test labels using standard error metrics (MAE, RMSE,and $R^2$) to verify performance reliability.
