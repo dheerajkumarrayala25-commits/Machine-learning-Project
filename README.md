@@ -39,7 +39,7 @@ Imported essential python packages for tabular analysis, predictive metrics calc
 Performed standard data validation checks to review data structure shapes, investigate feature parameters, verify columns, clean up data duplicates, and check for missing null variables. Visual distributions and correlation heatmaps were utilized to map how behavioral habits directly impact completion times.
 
 ### 3. Data Preprocessing & Target Splitting
-Isolated the continuous target metric (`Estimated Days to Complete`) from independent learner features. The dataset was split systematically into training and testing components using `train_test_split` to prevent overfitting.
+Isolated the continuous target metric from independent learner features. The dataset was split systematically into training and testing components using `train_test_split` to prevent overfitting.
 
 ### 4. Model Training & Evaluation
 Initialized and fitted the `LinearRegression` algorithm on the behavioral training data subset. Evaluated the final predictions against actual test labels using standard error metrics (MAE, RMSE,and $R^2$) to verify performance reliability.
