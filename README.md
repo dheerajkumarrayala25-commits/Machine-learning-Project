@@ -12,7 +12,7 @@ The objective of this machine learning project is to build a predictive model th
 ## 📊 Model Evaluation & Performance Metrics
 The project successfully implemented a **Linear Regression** model to predict completion timelines. The model achieved the following performance evaluation metrics on the test dataset:
 
-* **Mean Absolute Error (MAE):** 4.41 days (On average, predictions deviate by about 4.4 days from the actual completion time)
+* **Mean Absolute Error (MAE):** 4.41 days (On average, predictions deviate by about 4.42 days from the actual completion time)
 * **Mean Squared Error (MSE):** 29.49
 * **Root Mean Squared Error (RMSE):** 5.43 days
 * **R² Score (Coefficient of Determination):** 0.712 (~71.2% of the variance in course completion times is successfully explained by the model's features)
